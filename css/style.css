@@ -348,6 +348,9 @@ a {
   border-right: 5px groove rgb(231,154,10);
   border-radius: 5px;
 }
+#about .typed_animation{
+  color: rgb(231, 154, 10);
+}
 #about .about_img img {
   width: 100%;
   display: block;
